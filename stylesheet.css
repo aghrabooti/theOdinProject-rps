@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    padding: 32px;
+    margin: 0%;
+
+
+}
+.navbarBrand{
+    color: white;
+}
+
+h1{
+    font-size: 72px;
+    text-align: center;
+}
+
+.choose{
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    height: 200px;
+    border-radius: 50px;
+    margin: 50px;
+}
